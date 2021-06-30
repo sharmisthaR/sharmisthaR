@@ -275,7 +275,8 @@ public class RegistrationForm extends javax.swing.JFrame {
 
     private void lb_cancelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_lb_cancelActionPerformed
         // TODO add your handling code here:
-        System.exit(0);
+        mainform mf = new mainform();
+        mf.setVisible(true);
     }//GEN-LAST:event_lb_cancelActionPerformed
 
     private void lb_resetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_lb_resetActionPerformed

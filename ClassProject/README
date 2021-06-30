@@ -1,13 +1,12 @@
 Project by Sharmistha Roy
 18BTechIT48/ 5th semester
-Project name: Student Registration System
+Project name: Student Management System
 Technologies used: Netbeans, Java, Mysql, JDBC
 
 -------------------------------------------------------------------------------------------------------
 
-Description: Student Registration System is a simple module which can be added in a student management software.
-It has features that inclde new registration of student with the following attributes:
-NAME
+Description: In this project i have implemented main window, registration and a login page. This modules
+can be added to the student management system. We have here these following informations for each student:
 GENDER
 DATE OF BIRTH(DOB)
 ERP NO
